@@ -1,0 +1,13 @@
+{
+  // fertilizer.pro — static Direct Hedge terminal, served only on fertilizer.pro behind Cloudflare Access.
+  "name": "fertilizer-pro",
+  "compatibility_date": "2026-11-01",
+  "assets": { "directory": "./public", "not_found_handling": "404-page" },
+  // No public *.workers.dev address and no public preview URLs: the only way in is fertilizer.pro (Access-protected).
+  "workers_dev": false,
+  "preview_urls": false,
+  "routes": [
+    { "pattern": "fertilizer.pro", "custom_domain": true },
+    { "pattern": "www.fertilizer.pro", "custom_domain": true }
+  ]
+}
