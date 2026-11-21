@@ -1,0 +1,11 @@
+{"rows": [
+ {"date": "2026-10-22", "route": "Coal, fixed bed", "detail": "older anthracite plants", "cost_cny_t": 2068, "source": "Mysteel via SunSirs (27 Oct 2026)", "note": "gross margin -68 CNY/t"},
+ {"date": "2026-10-22", "route": "Coal, water-coal slurry", "detail": "newer gasification plants", "cost_cny_t": 1774, "source": "Mysteel via SunSirs (27 Oct 2026)", "note": "about break-even"},
+ {"date": "2026-10-22", "route": "Natural gas", "detail": "gas-based plants", "cost_cny_t": 2094, "source": "Mysteel via SunSirs (27 Oct 2026)", "note": "gross loss"},
+ {"date": "2026-06-30", "route": "Coal, fixed bed", "detail": "older anthracite plants", "cost_cny_t": 1892, "source": "Mysteel via SunSirs; end Q2, from the stated +176 change", "note": ""},
+ {"date": "2026-06-30", "route": "Coal, water-coal slurry", "detail": "newer gasification plants", "cost_cny_t": 1595, "source": "Mysteel via SunSirs; end Q2, from the stated +179 change", "note": ""},
+ {"date": "2026-06-30", "route": "Natural gas", "detail": "gas-based plants", "cost_cny_t": 2003, "source": "Mysteel via SunSirs; end Q2, from the stated +91 change", "note": ""},
+ {"date": "2025-12-26", "route": "Coal, fixed bed", "detail": "older anthracite plants", "cost_cny_t": 1917, "source": "SteelUnion via SunSirs (14 Jan 2026)", "note": ""},
+ {"date": "2025-12-26", "route": "Natural gas", "detail": "gas-based plants", "cost_cny_t": 1978, "source": "SteelUnion via SunSirs (14 Jan 2026)", "note": ""}
+],
+"meta": [{"capacity_split": "Coal about 77% of Chinese urea capacity, gas about 23% (Longzhong)", "updated": "2026-11-22"}]}
